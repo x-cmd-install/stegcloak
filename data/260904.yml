@@ -7,7 +7,7 @@ about:
   head: 1b9712b
   archived: false
   latestVersion: v1.1.1
-  collectedAt: 2026-09-04T19:44:34Z
+  collectedAt: 2026-09-04T20:55:50Z
 timeline:
   created: 2020-04-28
   lastCommit: 2024-10-01
@@ -80,6 +80,44 @@ total:
   openIssue: 6
   commit: 162
 ---
+path: /home/runner/.x-repo/github.com/KuroLabs/stegcloak
+collectedAt: 2026-09-04T20:55:52Z
+loc:
+  Json:
+    code: 9450
+    comments: 0
+    blanks: 0
+    files: 4
+  JavaScript:
+    code: 621
+    comments: 36
+    blanks: 120
+    files: 7
+  Html:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 97
+    blanks: 40
+    files: 1
+  Text:
+    code: 0
+    comments: 2
+    blanks: 0
+    files: 2
+total:
+  code: 10083
+  comments: 139
+  blanks: 167
+  files: 16
 ---
 date: "2026-08-24"
 repo:
