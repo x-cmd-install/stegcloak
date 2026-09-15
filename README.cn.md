@@ -30,9 +30,9 @@ x install stegcloak
 
 评分最低的几项:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install stegcloak
 
 ## 流行度
 
-- **Star**: 3,891 · **Fork**: 250 · **开放 issue**: 27 · **贡献者**: 8
+- **Star**: 3,892 · **Fork**: 250 · **开放 issue**: 27 · **贡献者**: 8
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install stegcloak
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-18 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 360d | 2025-09-19 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last720d | 2024-09-24 | 0 | 0 | 0 | 0 | 2 | 1 |
+| 30d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-19 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 360d | 2025-09-20 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last720d | 2024-09-25 | 0 | 0 | 0 | 0 | 2 | 1 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ stegcloak 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T05:51:10Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T05:42:42Z._
